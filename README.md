@@ -4,5 +4,5 @@ This is an HTML and CSS Assignment
 
 ## Links
 
-- [Visit Google](https://www.google.com)
+- [Visit Website](https://suraid12.github.io/HTML-CSS-ASSIGNMENT/)
   
